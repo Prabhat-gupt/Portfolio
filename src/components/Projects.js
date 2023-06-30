@@ -26,8 +26,8 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "",
-      description: "Design & Development",
+      title: "Techno Knowledge Center",
+      description: "Techno Knowledge Center is coaching institute app through which any student can register for any courses.",
       imgUrl: projImg1,
     }, 
   ];
